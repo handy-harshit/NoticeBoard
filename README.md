@@ -1,5 +1,5 @@
 # NoticeBoard
-<h1>Check out this app here : https://handy-harshit.github.io/NoticeBoard/</h1>
+<h2>Check out this app here : https://handy-harshit.github.io/NoticeBoard/</h2>
 
 # Description
 Hello all, let me introduce you with my webapp called Microsoft Notice Board.
